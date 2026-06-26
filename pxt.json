@@ -5,7 +5,9 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5"
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5",
+        "BitBuggy": "github:pisupply/pxt-bitbuggy#v2.1.2",
+        "pxt-kitronik-halohd": "github:kitronikltd/pxt-kitronik-halohd#v0.2.6"
     },
     "files": [
         "main.blocks",
